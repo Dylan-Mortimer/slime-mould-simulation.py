@@ -1,6 +1,6 @@
 # slime-mould-simulation.py
 
-v o.1
+v o.1.0
 
 A slime mould simulation based upon a paper by Sage Penson. Initial work upon it was inspired by Sebastian Lague.
 
