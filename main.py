@@ -95,6 +95,7 @@ class SlimeMould(arcade.Window):
         self.perf_graph_list.draw()
     
     def gen_initial_data(self):
+
         for i in range(self.num_agents):
 
             # Input Positions For Agents

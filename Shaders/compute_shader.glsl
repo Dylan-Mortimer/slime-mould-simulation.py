@@ -40,6 +40,7 @@ void main()
 
     p.xy += v.xy * vec2(2.0, 2.0);
 
+    in_agent.colour.yz = p.xy/vec2(650.0,1150.0);
 
     Agent out_agent;
     out_agent.pos.xyzw = p.xyzw;
