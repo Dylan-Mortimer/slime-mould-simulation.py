@@ -1,5 +1,7 @@
 # slime-mould-simulation.py
 
+v o.1
+
 A slime mould simulation based upon a paper by Sage Penson. Initial work upon it was inspired by Sebastian Lague.
 
 The code work by generating x amount of agents, and updating their position based upon velocity, and updating their velocity based upon a trial map which is based off of the positions of the agents.
