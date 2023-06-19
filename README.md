@@ -15,6 +15,6 @@ Current features:
 
 Planned features:
 - Rework the velocity system to use both velocity as a vector2 and an angle (in radians).
-- Add a trial map that records the location of agents, weakens the trail over time, and diffuses the trail.
+- Add a trail map that records the location of agents, weakens the trail over time, and diffuses the trail.
 
 https://cargocollective.com/sagejenson/physarum
